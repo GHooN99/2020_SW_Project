@@ -1,1 +1,2 @@
-https://www.youtube.com/watch?v=aimSGOAUI8Y&list=WL&index=46&t=0s
+https://www.youtube.com/watch?v=aimSGOAUI8Y&list=WL&index=46&t=0s 		TF lite 물체 인식 
+https://youtu.be/GNRg2P8Vqqs		TF 2.0 을 라즈베리 파이에
