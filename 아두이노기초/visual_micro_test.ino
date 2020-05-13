@@ -10,6 +10,7 @@ void loop()
 	Serial.println("hello");
 	delay(1000);
 	printNum(10);
+	
 
 }
 void printNum(int x)
