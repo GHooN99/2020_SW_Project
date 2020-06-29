@@ -1,0 +1,4 @@
+0 pet
+1 coca
+2 glass
+3 none

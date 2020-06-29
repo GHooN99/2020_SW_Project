@@ -1,4 +1,5 @@
 0 pet
-1 coca
+1 can
 2 glass
-3 none
+3 paper
+4 none
